@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 Olá! Meu nome é **Antonio Luciano**, mas pode me chamar de Tonho. Sou entusiasta em **Cloud Computing** e **Cybersecurity**, com foco especial nas tecnologias **Microsoft Azure** e **Microsoft 365**.
@@ -29,4 +29,4 @@ Quer trocar uma ideia, sugerir um tema ou só bater um papo? Me encontre nas red
 
 ---
 
-Obrigado por visitar o **Tonho Cloud**!
+Valeu pela visita!
