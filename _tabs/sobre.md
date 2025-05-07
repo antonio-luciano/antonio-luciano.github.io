@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-Olá! Meu nome é **Antonio Luciano**, mas pode me chamar de Tonho. Sou entusiasta em **Cloud Computing** e **Cybersecurity**, com foco especial nas tecnologias **Microsoft Azure** e **Microsoft 365**.
+Opa! Eu sou o **Antonio Luciano**, vulgo Tonho. Sou entusiasta em **Cloud** e **Cybersecurity**, com foco especial nas tecnologias **Microsoft Azure** e **Microsoft 365**.
 
 ---
 
@@ -16,6 +16,7 @@ Este espaço foi criado para compartilhar conhecimento, aprendizados e desafios 
 - Dicas rápidas e scripts úteis
 - Boas práticas de governança em nuvem
 - Experiências com projetos reais
+... Que em muitos casos, são frutos de muito "perrengue", rs
 
 ---
 
