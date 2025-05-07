@@ -18,7 +18,7 @@ author: "Antonio Luciano"  # Define o autor global
 
 title: Tonho Cloud # the main title
 
-tagline: Mais um falando de Cloud Security # it will display as the subtitle
+tagline: Mais um falando de Cloud # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
