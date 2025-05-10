@@ -16,9 +16,9 @@ timezone: America/Sao_Paulo
 
 author: "Antonio Luciano"  # Define o autor global
 
-title: Antonio Luciano # the main title
+title: "Antonio&nbsp;Luciano" # the main title
 
-tagline: Mais um falando de Cloud # it will display as the subtitle
+tagline: Cloud Security Specialist # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -28,7 +28,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://antonio-luciano.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: antonio-luciano # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username

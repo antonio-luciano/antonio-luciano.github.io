@@ -1,0 +1,16 @@
+.profile-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center; /* Para centralizar o texto dentro dos elementos filhos, se necessário */
+}
+
+/* Se o avatar for uma imagem dentro de um link, como no seu exemplo anterior */
+.profile-wrapper a#avatar {
+  display: block; /* Garante que o link se comporte como um bloco para centralização */
+  margin-bottom: 0.75rem; /* Ajuste conforme necessário para o espaçamento entre a imagem e o título */
+}
+
+.profile-wrapper .site-title {
+  margin-bottom: 0.5rem; /* Ajuste conforme necessário para o espaçamento entre o título e o subtítulo */
+}
