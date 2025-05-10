@@ -127,7 +127,7 @@ Update-Module Microsoft.Graph
 
 ## 🚀 Conclusão
 
-É isso meus amigos, vamos ficar por aqui por enquanto. Nos próximos posts, veremos de forma mais avançada como esse recurso pode ser extremamente útil.<br>
+É isso meus amigos, hoje vamos ficar por aqui. Nos próximos posts, veremos de forma mais avançada como esse recurso pode ser extremamente útil.<br>
 O módulo Microsoft Graph para PowerShell permite agilidade, centralização e automação no gerenciamento de soluções Microsoft 365. Dominar esse recurso transforma sua rotina de administração em algo muito mais eficiente e escalável.
 
 Experimente, explore a documentação oficial e integre o Graph ao seu dia a dia e aos seus scripts!
