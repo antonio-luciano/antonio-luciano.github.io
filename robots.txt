@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://antonio-luciano.github.io/sitemap.xml
+Sitemap: https://tonho.cloud/sitemap.xml
