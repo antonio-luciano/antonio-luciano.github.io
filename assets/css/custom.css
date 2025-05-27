@@ -14,3 +14,56 @@
 .profile-wrapper .site-title {
   margin-bottom: 0.5rem; /* Ajuste conforme necessário para o espaçamento entre o título e o subtítulo */
 }
+
+/* Deixar o nome branco */
+.site-title {
+  color: #ffffff !important;
+}
+
+/* Remover itálico do subtítulo */
+.site-subtitle {
+  font-style: normal !important;
+  color: #3e88c4 !important;
+}
+
+/* Animação e cor itens menu lateral */
+ul.nav > li > .nav-link:hover {
+  border-left: 3px solid #3e88c4 !important;
+  padding-left: 10px !important;
+  border-right: 3px solid #3e88c4 !important;
+  padding-right: 10px !important;
+  background-color: #1f1f1f !important;
+  color: #ffffff !important;
+  transition: all 0.2s ease;
+}
+
+/*
+ul.nav > li > .nav-link.active {
+  border-left: 3px solid #1e90ff !important;
+  padding-left: 10px !important;
+  color: #ffffff !important;
+  background-color: #1f1f1f !important;
+}
+*/
+
+/* Mudar cor dos títulos dos posts */
+.post-title {
+  color: #3e88c4 !important;
+}
+
+/* Centraliza e padroniza os ícones de contato na sidebar inferior */
+.sidebar-bottom {
+  display: flex;
+  justify-content: center;
+  gap: 14px; /* Espaçamento uniforme entre ícones */
+  padding: 0.5rem 1rem;
+}
+
+/* Estiliza cada ícone para ter tamanho e alinhamento uniformes */
+.sidebar-bottom a {
+  font-size: 1.2rem;
+  padding: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
