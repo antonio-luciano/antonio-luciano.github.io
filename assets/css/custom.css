@@ -67,3 +67,82 @@ ul.nav > li > .nav-link.active {
   align-items: center;
   justify-content: center;
 }
+
+/* Botões de compartilhamento */
+.post-share {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: 1rem;
+  margin-bottom: 0; // remove espaço abaixo do bloco
+  padding-bottom: 0; // força colar no rodapé
+  font-size: 0.85rem; // deixa o texto menor e discreto
+  color: var(--text-color);
+  gap: 0.3rem;
+
+  .share-label {
+    font-weight: normal;
+    margin-right: 0.2rem;
+    font-size: 0.8rem; // reduz especificamente o texto "Compartilhar:"
+  }
+
+  .share-icons {
+    display: flex;
+    gap: 0.4rem;
+
+    a {
+      color: #c0c0c0;
+      font-size: 1.1rem;
+      transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
+
+      &:hover {
+        color: #fff;
+        transform: scale(1.1); //zoom dos ícones de compartilhamento
+      }
+    }
+
+    i {
+      pointer-events: none;
+    }
+  }
+}
+
+/* Zera o espaçamento do rodapé */
+footer,
+.page__footer {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Zera o espaçamento do container do post */
+main,
+.page__main {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Remove qualquer espaço no final do artigo */
+article.post {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.footer {
+  font-size: 0.85rem;
+  color: var(--text-color);
+  margin-top: 1rem;
+
+  .footer__hr {
+    border-top: 1px solid var(--border-color);
+    margin-top: 2rem;
+    margin-bottom: 0.8rem;
+  }
+
+  .footer__bottom {
+    display: flex;
+    justify-content: flex-start; // <-- alinha à esquerda
+    align-items: center;
+    text-align: left;
+    padding-bottom: 0.5rem;
+  }
+}
